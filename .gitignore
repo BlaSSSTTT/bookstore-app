@@ -1,0 +1,360 @@
+GitHub Copilot Suggestions
+10 Suggestions
+Suggestion 1
+backend/node_modules/
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.idea/
+.vscode/
+.vscode-test/
+.vscode-test-*
+.history/
+.history/
+.cache/
+.cache-loader/
+.cache-loader-*
+.cache-loader-*
+.cache-loader-*/*
+.cache-loader-*/*/*
+*.tgz
+*.tgz.*
+!**/node_modules/**/package.json
+!**/node_modules/**/package-lock.json
+!**/node_modules/**/npm-shrinkwrap.json
+!**/node_modules/**/yarn.lock
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+logs
+*.log
+
+# npm packages
+package-lock.json
+pnpm-lock.yaml
+
+# Yarn packages
+yarn-error.log*
+
+Accept suggestion 1
+Suggestion 2
+backend/node_modules/
+frontend/node_modules/
+dist/
+dist-ssr/
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode-test/
+.vscode-test-*
+.history/
+.history/*
+.history/**/*
+.history/**/**/*
+.history/**/**/**/*
+.history/.history
+.history/.history/*
+.history/.history/**
+.history/.history/**
+
+Accept suggestion 2
+Suggestion 3
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# MacOS system files
+.DS_Store
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Linux system files
+*~
+.cache/
+*.pid
+*.seed
+*.pid.lock
+
+Accept suggestion 3
+Suggestion 4
+backend/node_modules/
+frontend/node_modules/
+dist
+dist-ssr
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Local env files
+.env.local
+.env.*.local
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+# Build directory
+build/
+# Coverage directory used by tools like istanbul and coveralls
+coverage/
+# Temporary files created by editors or OSes.
+*.tmp
+*.temp
+
+Accept suggestion 4
+Suggestion 5
+backend/node_modules/
+frontend/node_modules/
+dist/
+dist-ssr/
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.vscode-test/
+.vscode-server/
+.vscode-server-insiders/
+.vscode-remote/
+.vscode-remote-data/
+.history/
+.history/
+.history-archive/
+.history-archive-2/
+.history-archive-3/
+.history-archive-4/
+.history-archive-5/
+.history-archive-6/
+.history-archive-7/
+.history-archive-8/
+.history-archive-9/
+.history-archive-10/
+
+Accept suggestion 5
+Suggestion 6
+backend/node_modules/
+frontend/node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swo
+*.swp
+*.tmp
+*.temp
+*.pid
+*.seed
+*.pid.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Coverage directory used by tools like istanbul and coverage/lcov-report
+coverage/
+
+Accept suggestion 6
+Suggestion 7
+backend/node_modules/
+frontend/node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+.vscode/
+.idea/
+.vscode-test/
+.vscode-test-*
+.vscode-test-*/out/test/
+.vscode-test-*/out/src/
+*.code-workspace
+*.code-workspace.code-workspace
+.vscode-extension.json
+.vscode-test-*/out/src/extension.js
+.vscode-test-*/out/src/extension.js.map
+.vscode-test-*/out/test/extension.test.js
+
+Accept suggestion 7
+Suggestion 8
+backend/node_modules/
+frontend/node_modules/
+dist/
+dist-ssr/
+*.local
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+.idea/
+.vscode/
+.vscode-server/
+.vscode-test/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.idea/
+.vscode-server/
+.vscode-test/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+Accept suggestion 8
+Suggestion 9
+backend/node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vscode/*
+frontend/.idea
+frontend/.DS_Store
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
+# Uncomment the line below to ignore all files in the frontend directory except for .vscode/extensions.json
+# frontend/* !.vscode/extensions.json
+# Uncomment the line below to ignore all files in the backend directory except for .vscode/extensions.json
+# backend/* !.vscode/extensions.json
+
+# Uncomment the line below to ignore all files in the backend directory except for .vscode/extensions.json
+# backend/* !.vscode/extensions.json
+
+# Uncomment the line below to ignore all files in the shared directory except for .vscode/extensions.json
+# shared/* !.vscode/extensions.json
+
+Accept suggestion 9
+Suggestion 10
+backend/node_modules/
+node_modules/
+dist/
+dist-ssr/
+*.local
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+# Miscellaneous files
+package-lock.json
+yarn-error.log
+pnpm-lock.yaml
+
+# Ignore test coverage reports generated by Jest or Mocha.
+coverage/
+
+Accept suggestion 10

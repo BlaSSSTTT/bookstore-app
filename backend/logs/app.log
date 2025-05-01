@@ -1,0 +1,800 @@
+2025-04-28 22:08:42 [INFO]: Book created by user: 1 - Book ID: 5
+2025-04-28 22:08:42 [INFO]: Books fetched by user: 1
+2025-04-28 22:09:05 [INFO]: User undefined (admin) fetched 2 authors
+2025-04-28 22:09:05 [INFO]: User undefined (admin) fetched 2 authors
+2025-04-28 22:09:11 [INFO]: User undefined (admin) created author: a3
+2025-04-28 22:09:11 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:10:11 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:10:11 [INFO]: Books fetched by user: 1
+2025-04-28 22:10:11 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:10:11 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:10:11 [INFO]: Books fetched by user: 1
+2025-04-28 22:10:11 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:10:11 [INFO]: Books fetched by user: 1
+2025-04-28 22:10:11 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:46 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:14:46 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:46 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:14:46 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:46 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:14:46 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:14:46 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:46 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:50 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:50 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:14:50 [INFO]: Books fetched by user: 1
+2025-04-28 22:14:50 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:14:50 [INFO]: Genres fetched by user: 1
+2025-04-28 22:14:50 [INFO]: Genres fetched by user: 1
+2025-04-28 22:14:51 [INFO]: Genres fetched by user: 1
+2025-04-28 22:14:51 [INFO]: Genres fetched by user: 1
+2025-04-28 22:14:52 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:14:52 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:14:53 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-28 22:14:53 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-28 22:15:02 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:02 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:15:02 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:02 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:02 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:15:02 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:07 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:07 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:17 [INFO]: Genre created (ID: 3) by user: 1
+2025-04-28 22:15:17 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:18 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:18 [INFO]: Genres fetched by user: 1
+2025-04-28 22:15:18 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:18 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:15:18 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:18 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-28 22:15:47 [INFO]: Book created by user: 1 - Book ID: 6
+2025-04-28 22:15:47 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:50 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:50 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:50 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:15:50 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:15:50 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:15:50 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:15:50 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:50 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:57 [INFO]: Receipt created (ID: 14) by user: 1
+2025-04-28 22:15:57 [INFO]: Book quantity updated by user: 1 - Book ID: 6
+2025-04-28 22:15:57 [INFO]: ReceiptBook created (ID: 9) by user: 1
+2025-04-28 22:15:57 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:15:57 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:15:57 [INFO]: Books fetched by user: 1
+2025-04-28 22:15:57 [INFO]: Books fetched by user: 1
+2025-04-28 22:16:06 [INFO]: Receipt created (ID: 15) by user: 1
+2025-04-28 22:16:06 [INFO]: Book quantity updated by user: 1 - Book ID: 5
+2025-04-28 22:16:06 [INFO]: ReceiptBook created (ID: 10) by user: 1
+2025-04-28 22:16:06 [INFO]: Book quantity updated by user: 1 - Book ID: 6
+2025-04-28 22:16:06 [INFO]: ReceiptBook created (ID: 11) by user: 1
+2025-04-28 22:16:06 [INFO]: Receipts fetched by user: 1
+2025-04-28 22:16:06 [INFO]: Books fetched by user: 1
+2025-04-28 22:16:06 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-28 22:16:06 [INFO]: Books fetched by user: 1
+2025-04-28 22:16:07 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-28 22:16:07 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-28 22:16:15 [INFO]: Report generated successfully for period 2025-04-01 to 2025-04-29 by User ID: undefined
+2025-04-28 22:16:15 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:11:06 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-29 20:11:06 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:06 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:11:06 [INFO]: Genres fetched by user: 1
+2025-04-29 20:11:06 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:06 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:11:06 [INFO]: Genres fetched by user: 1
+2025-04-29 20:11:08 [INFO]: Clients fetched by user: 1
+2025-04-29 20:11:08 [INFO]: Clients fetched by user: 1
+2025-04-29 20:11:13 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:11:13 [INFO]: Genres fetched by user: 1
+2025-04-29 20:11:13 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:11:13 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:13 [INFO]: Genres fetched by user: 1
+2025-04-29 20:11:13 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:15 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:15 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:15 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:11:15 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:11:15 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:11:15 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:11:15 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:15 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:23 [INFO]: Receipt created (ID: 16) by user: 1
+2025-04-29 20:11:23 [INFO]: Book quantity updated by user: 1 - Book ID: 1
+2025-04-29 20:11:23 [INFO]: ReceiptBook created (ID: 12) by user: 1
+2025-04-29 20:11:23 [INFO]: Book quantity updated by user: 1 - Book ID: 6
+2025-04-29 20:11:23 [INFO]: ReceiptBook created (ID: 13) by user: 1
+2025-04-29 20:11:23 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:11:23 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:23 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:11:23 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:24 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:11:24 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:11:33 [INFO]: Report generated successfully for period 2025-04-16 to 2025-04-30 by User ID: undefined
+2025-04-29 20:11:33 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:11:45 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:11:45 [INFO]: Genres fetched by user: 1
+2025-04-29 20:11:45 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:45 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:11:45 [INFO]: Genres fetched by user: 1
+2025-04-29 20:11:45 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:46 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:46 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:11:47 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:11:47 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:47 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:11:47 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:11:47 [INFO]: Books fetched by user: 1
+2025-04-29 20:11:47 [INFO]: Books fetched by user: 1
+2025-04-29 20:12:52 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:12:52 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:12:53 [INFO]: Genres fetched by user: 1
+2025-04-29 20:12:53 [INFO]: Genres fetched by user: 1
+2025-04-29 20:12:53 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:12:53 [INFO]: Genres fetched by user: 1
+2025-04-29 20:12:53 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:12:53 [INFO]: Genres fetched by user: 1
+2025-04-29 20:12:53 [INFO]: Books fetched by user: 1
+2025-04-29 20:12:53 [INFO]: Books fetched by user: 1
+2025-04-29 20:12:58 [INFO]: Clients fetched by user: 1
+2025-04-29 20:12:58 [INFO]: Clients fetched by user: 1
+2025-04-29 20:13:01 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:01 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:01 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:01 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:01 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:01 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:01 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:01 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:02 [INFO]: Clients fetched by user: 1
+2025-04-29 20:13:02 [INFO]: Clients fetched by user: 1
+2025-04-29 20:13:04 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:04 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:04 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:04 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:04 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:04 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:04 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:04 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:09 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:13:09 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:13:11 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:11 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:11 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:11 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:11 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:11 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:11 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:11 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:15 [INFO]: Clients fetched by user: 1
+2025-04-29 20:13:15 [INFO]: Clients fetched by user: 1
+2025-04-29 20:13:17 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:17 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:17 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:13:17 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:17 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:17 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:13:17 [INFO]: Books fetched by user: 1
+2025-04-29 20:13:17 [INFO]: Books fetched by user: 1
+2025-04-29 20:16:21 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:16:21 [INFO]: Genres fetched by user: 1
+2025-04-29 20:16:21 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:16:21 [INFO]: Books fetched by user: 1
+2025-04-29 20:16:21 [INFO]: Genres fetched by user: 1
+2025-04-29 20:16:21 [INFO]: Books fetched by user: 1
+2025-04-29 20:16:32 [INFO]: Genres fetched by user: 1
+2025-04-29 20:16:32 [INFO]: Genres fetched by user: 1
+2025-04-29 20:16:36 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:16:36 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:16:39 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:16:39 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:25:39 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:25:39 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:34:28 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-29 20:34:28 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:34:28 [INFO]: Books fetched by user: 1
+2025-04-29 20:34:28 [INFO]: Genres fetched by user: 1
+2025-04-29 20:34:28 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:34:28 [INFO]: Books fetched by user: 1
+2025-04-29 20:34:28 [INFO]: Genres fetched by user: 1
+2025-04-29 20:34:46 [INFO]: Genres fetched by user: 1
+2025-04-29 20:34:46 [INFO]: Genres fetched by user: 1
+2025-04-29 20:34:48 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:34:48 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:34:50 [INFO]: Clients fetched by user: 1
+2025-04-29 20:34:50 [INFO]: Clients fetched by user: 1
+2025-04-29 20:34:52 [INFO]: Books fetched by user: 1
+2025-04-29 20:34:52 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:34:52 [INFO]: Books fetched by user: 1
+2025-04-29 20:34:52 [INFO]: Receipts fetched by user: 1
+2025-04-29 20:34:52 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:34:52 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 20:34:52 [INFO]: Books fetched by user: 1
+2025-04-29 20:34:52 [INFO]: Books fetched by user: 1
+2025-04-29 20:35:11 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:35:11 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 20:35:48 [INFO]: Clients fetched by user: 1
+2025-04-29 20:35:48 [INFO]: Clients fetched by user: 1
+2025-04-29 20:35:49 [INFO]: Books fetched by user: 1
+2025-04-29 20:35:49 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:35:49 [INFO]: Genres fetched by user: 1
+2025-04-29 20:35:49 [INFO]: Books fetched by user: 1
+2025-04-29 20:35:49 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:35:49 [INFO]: Genres fetched by user: 1
+2025-04-29 20:35:51 [INFO]: Genres fetched by user: 1
+2025-04-29 20:35:51 [INFO]: Genres fetched by user: 1
+2025-04-29 20:35:52 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:35:52 [INFO]: Genres fetched by user: 1
+2025-04-29 20:35:52 [INFO]: Books fetched by user: 1
+2025-04-29 20:35:52 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-29 20:35:52 [INFO]: Genres fetched by user: 1
+2025-04-29 20:35:52 [INFO]: Books fetched by user: 1
+2025-04-29 21:01:33 [INFO]: User undefined (admin) fetched 0 authors
+2025-04-29 21:01:33 [INFO]: User undefined (admin) fetched 0 authors
+2025-04-29 21:01:50 [INFO]: User undefined (admin) created author: a1
+2025-04-29 21:01:50 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:01:53 [INFO]: Genres fetched by user: 1
+2025-04-29 21:01:53 [INFO]: Genres fetched by user: 1
+2025-04-29 21:01:57 [INFO]: Genre created (ID: 1) by user: 1
+2025-04-29 21:01:57 [INFO]: Genres fetched by user: 1
+2025-04-29 21:01:58 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:01:58 [INFO]: Books fetched by user: 1
+2025-04-29 21:01:58 [INFO]: Genres fetched by user: 1
+2025-04-29 21:01:58 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:01:58 [INFO]: Books fetched by user: 1
+2025-04-29 21:01:58 [INFO]: Genres fetched by user: 1
+2025-04-29 21:06:53 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:06:53 [INFO]: Genres fetched by user: 1
+2025-04-29 21:06:53 [INFO]: Books fetched by user: 1
+2025-04-29 21:07:26 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:07:26 [INFO]: Genres fetched by user: 1
+2025-04-29 21:07:26 [INFO]: Books fetched by user: 1
+2025-04-29 21:10:11 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:10:11 [INFO]: Genres fetched by user: 1
+2025-04-29 21:10:11 [INFO]: Books fetched by user: 1
+2025-04-29 21:11:49 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:11:49 [INFO]: Books fetched by user: 1
+2025-04-29 21:11:49 [INFO]: Genres fetched by user: 1
+2025-04-29 21:11:49 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:11:49 [INFO]: Genres fetched by user: 1
+2025-04-29 21:11:49 [INFO]: Books fetched by user: 1
+2025-04-29 21:16:56 [INFO]: Books fetched by user: 1
+2025-04-29 21:16:56 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:16:56 [INFO]: Genres fetched by user: 1
+2025-04-29 21:16:56 [INFO]: Books fetched by user: 1
+2025-04-29 21:16:56 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:16:56 [INFO]: Genres fetched by user: 1
+2025-04-29 21:17:07 [INFO]: Book deleted by admin: 1 - Book ID: 1
+2025-04-29 21:17:07 [INFO]: Books fetched by user: 1
+2025-04-29 21:20:27 [INFO]: Books fetched by user: 1
+2025-04-29 21:20:27 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:20:27 [INFO]: Genres fetched by user: 1
+2025-04-29 21:20:27 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:20:27 [INFO]: Books fetched by user: 1
+2025-04-29 21:20:27 [INFO]: Genres fetched by user: 1
+2025-04-29 21:20:45 [INFO]: Book deleted by admin: 1 - Book ID: 3
+2025-04-29 21:20:45 [INFO]: Books fetched by user: 1
+2025-04-29 21:21:33 [INFO]: Book created by admin: 1 - Book ID: 4
+2025-04-29 21:21:33 [INFO]: Books fetched by user: 1
+2025-04-29 21:21:46 [INFO]: Genres fetched by user: 1
+2025-04-29 21:21:46 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:21:46 [INFO]: Books fetched by user: 1
+2025-04-29 21:21:46 [INFO]: Genres fetched by user: 1
+2025-04-29 21:21:46 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:21:46 [INFO]: Books fetched by user: 1
+2025-04-29 21:25:53 [INFO]: Clients fetched by user: 1
+2025-04-29 21:25:53 [INFO]: Clients fetched by user: 1
+2025-04-29 21:26:20 [INFO]: Client created (ID: 1) by user: 1
+2025-04-29 21:26:20 [INFO]: Clients fetched by user: 1
+2025-04-29 21:26:22 [INFO]: Client fetched (ID: 1) by user: 1
+2025-04-29 21:26:33 [INFO]: Client fetched (ID: 1) by user: 1
+2025-04-29 21:28:13 [INFO]: Genres fetched by user: 1
+2025-04-29 21:28:13 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:28:13 [INFO]: Books fetched by user: 1
+2025-04-29 21:28:13 [INFO]: Genres fetched by user: 1
+2025-04-29 21:28:13 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:28:13 [INFO]: Books fetched by user: 1
+2025-04-29 21:28:14 [INFO]: Books fetched by user: 1
+2025-04-29 21:28:14 [INFO]: Books fetched by user: 1
+2025-04-29 21:28:14 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:28:14 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:28:14 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:28:14 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:28:14 [INFO]: Books fetched by user: 1
+2025-04-29 21:28:14 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:03 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:31:03 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:03 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:03 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:31:03 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:03 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:04 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:31:04 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:04 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:56 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:31:56 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:56 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:56 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:31:56 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:56 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:58 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:31:58 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:58 [INFO]: Clients fetched by user: 1
+2025-04-29 21:31:58 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:31:58 [INFO]: Books fetched by user: 1
+2025-04-29 21:31:58 [INFO]: Clients fetched by user: 1
+2025-04-29 21:32:10 [INFO]: Receipt created (ID: 1) by user: 1
+2025-04-29 21:32:10 [INFO]: Book quantity updated by user: 1 - Book ID: 4
+2025-04-29 21:32:10 [INFO]: ReceiptBook created (ID: 1) by user: 1
+2025-04-29 21:32:10 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:32:10 [INFO]: Books fetched by user: 1
+2025-04-29 21:32:10 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:32:10 [INFO]: Books fetched by user: 1
+2025-04-29 21:32:10 [INFO]: Clients fetched by user: 1
+2025-04-29 21:36:13 [WARN]: Invalid token
+2025-04-29 21:36:28 [WARN]: Failed login attempt with non-existent email: admin@gmail.com
+2025-04-29 21:36:29 [WARN]: Failed login attempt with non-existent email: admin@gmail.com
+2025-04-29 21:36:47 [INFO]: User registered: admin@gmail.com with role: admin
+2025-04-29 21:36:53 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-29 21:36:53 [INFO]: Books fetched by user: 1
+2025-04-29 21:36:53 [INFO]: Books fetched by user: 1
+2025-04-29 21:36:53 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:36:53 [INFO]: Genres fetched by user: 1
+2025-04-29 21:36:53 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:36:53 [INFO]: Genres fetched by user: 1
+2025-04-29 21:37:32 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:37:32 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:37:32 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:32 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:32 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:32 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:33 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:37:33 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:37:33 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:33 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:33 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:33 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:37 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 21:37:37 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-29 21:37:39 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Receipts fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:39 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:37:39 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Books fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Clients fetched by user: 1
+2025-04-29 21:37:39 [INFO]: Clients fetched by user: 1
+2025-04-29 21:38:10 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:38:10 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:38:45 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:38:45 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:39:04 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:39:04 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:39:36 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:39:36 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:40:01 [WARN]: Failed login attempt with non-existent email: user@gmail.com
+2025-04-29 21:40:10 [INFO]: User registered: user@gmail.com with role: user
+2025-04-29 21:40:13 [INFO]: User logged in: user@gmail.com (role: user)
+2025-04-29 21:40:13 [INFO]: Books fetched by user: 2
+2025-04-29 21:40:13 [INFO]: Genres fetched by user: 2
+2025-04-29 21:40:13 [INFO]: User undefined (user) fetched 1 authors
+2025-04-29 21:40:13 [INFO]: Books fetched by user: 2
+2025-04-29 21:40:13 [INFO]: Genres fetched by user: 2
+2025-04-29 21:40:13 [INFO]: User undefined (user) fetched 1 authors
+2025-04-29 21:40:33 [INFO]: User registered: manager@gmail.com with role: manager
+2025-04-29 21:40:37 [INFO]: User logged in: manager@gmail.com (role: manager)
+2025-04-29 21:40:37 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:37 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:37 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:37 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:37 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:37 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:41 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Receipts fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Receipts fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:41 [INFO]: ReceiptBooks fetched by user: 3
+2025-04-29 21:40:41 [INFO]: ReceiptBooks fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:41 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:42 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:42 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:43 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:43 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:43 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:43 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:43 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:43 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:44 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:44 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:45 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:45 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:46 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:46 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:46 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:46 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:46 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:46 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:46 [INFO]: User undefined (manager) fetched 1 authors
+2025-04-29 21:40:46 [INFO]: Genres fetched by user: 3
+2025-04-29 21:40:46 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:46 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Receipts fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Receipts fetched by user: 3
+2025-04-29 21:40:47 [INFO]: ReceiptBooks fetched by user: 3
+2025-04-29 21:40:47 [INFO]: ReceiptBooks fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Books fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Clients fetched by user: 3
+2025-04-29 21:40:47 [INFO]: Clients fetched by user: 3
+2025-04-29 21:41:05 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-29 21:41:05 [INFO]: Books fetched by user: 1
+2025-04-29 21:41:05 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:41:05 [INFO]: Genres fetched by user: 1
+2025-04-29 21:41:05 [INFO]: Books fetched by user: 1
+2025-04-29 21:41:05 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-29 21:41:05 [INFO]: Genres fetched by user: 1
+2025-04-30 09:40:21 [WARN]: Invalid token
+2025-04-30 09:40:21 [WARN]: Invalid token
+2025-04-30 09:40:28 [INFO]: User registered: admin@gmail.com with role: admin
+2025-04-30 09:40:32 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-30 09:40:32 [INFO]: Books fetched by user: 1
+2025-04-30 09:40:32 [INFO]: User undefined (admin) fetched 0 authors
+2025-04-30 09:40:32 [INFO]: Books fetched by user: 1
+2025-04-30 09:40:32 [INFO]: Genres fetched by user: 1
+2025-04-30 09:40:32 [INFO]: User undefined (admin) fetched 0 authors
+2025-04-30 09:40:32 [INFO]: Genres fetched by user: 1
+2025-04-30 09:54:23 [INFO]: Genres fetched by user: 1
+2025-04-30 09:54:23 [INFO]: Genres fetched by user: 1
+2025-04-30 09:54:27 [INFO]: Genre created (ID: 1) by user: 1
+2025-04-30 09:54:27 [INFO]: Genres fetched by user: 1
+2025-04-30 09:54:36 [INFO]: Genre created (ID: 2) by user: 1
+2025-04-30 09:54:36 [INFO]: Genres fetched by user: 1
+2025-04-30 09:54:45 [INFO]: Genre created (ID: 3) by user: 1
+2025-04-30 09:54:45 [INFO]: Genres fetched by user: 1
+2025-04-30 09:54:54 [INFO]: Genre created (ID: 4) by user: 1
+2025-04-30 09:54:54 [INFO]: Genres fetched by user: 1
+2025-04-30 09:55:04 [INFO]: Genre created (ID: 5) by user: 1
+2025-04-30 09:55:04 [INFO]: Genres fetched by user: 1
+2025-04-30 09:55:08 [INFO]: User undefined (admin) fetched 0 authors
+2025-04-30 09:55:08 [INFO]: User undefined (admin) fetched 0 authors
+2025-04-30 09:55:50 [INFO]: User undefined (admin) created author: Джордж Р. Р. Мартін
+2025-04-30 09:55:51 [INFO]: User undefined (admin) fetched 1 authors
+2025-04-30 09:56:05 [INFO]: User undefined (admin) created author: Анджей Сапковський
+2025-04-30 09:56:05 [INFO]: User undefined (admin) fetched 2 authors
+2025-04-30 09:56:22 [INFO]: User undefined (admin) created author: Станіслав Лем
+2025-04-30 09:56:22 [INFO]: User undefined (admin) fetched 3 authors
+2025-04-30 09:56:37 [INFO]: User undefined (admin) created author: Артур Кларк
+2025-04-30 09:56:37 [INFO]: User undefined (admin) fetched 4 authors
+2025-04-30 09:56:53 [INFO]: User undefined (admin) created author: Геннінг Манкелль
+2025-04-30 09:56:53 [INFO]: User undefined (admin) fetched 5 authors
+2025-04-30 09:57:14 [INFO]: User undefined (admin) created author: Жоель Діккер
+2025-04-30 09:57:14 [INFO]: User undefined (admin) fetched 6 authors
+2025-04-30 09:57:31 [INFO]: User undefined (admin) created author: Джоджо Мойєс
+2025-04-30 09:57:31 [INFO]: User undefined (admin) fetched 7 authors
+2025-04-30 09:57:49 [INFO]: User undefined (admin) created author: Сесилія Агер
+2025-04-30 09:57:49 [INFO]: User undefined (admin) fetched 8 authors
+2025-04-30 09:58:09 [INFO]: User undefined (admin) created author: Ю Несбьо
+2025-04-30 09:58:09 [INFO]: User undefined (admin) fetched 9 authors
+2025-04-30 09:58:24 [INFO]: User undefined (admin) created author: Елена Ферранте
+2025-04-30 09:58:24 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:12:25 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:12:25 [INFO]: Genres fetched by user: 1
+2025-04-30 10:12:25 [INFO]: Books fetched by user: 1
+2025-04-30 10:12:25 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:12:25 [INFO]: Genres fetched by user: 1
+2025-04-30 10:12:25 [INFO]: Books fetched by user: 1
+2025-04-30 10:13:43 [INFO]: Book created by admin: 1 - Book ID: 1
+2025-04-30 10:13:43 [INFO]: Books fetched by user: 1
+2025-04-30 10:14:31 [INFO]: Book created by admin: 1 - Book ID: 2
+2025-04-30 10:14:31 [INFO]: Books fetched by user: 1
+2025-04-30 10:16:08 [INFO]: Books fetched by user: 1
+2025-04-30 10:16:08 [INFO]: Genres fetched by user: 1
+2025-04-30 10:16:08 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:16:08 [INFO]: Genres fetched by user: 1
+2025-04-30 10:16:08 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:16:08 [INFO]: Books fetched by user: 1
+2025-04-30 10:16:39 [INFO]: Book created by admin: 1 - Book ID: 3
+2025-04-30 10:16:39 [INFO]: Books fetched by user: 1
+2025-04-30 10:19:11 [INFO]: Book created by admin: 1 - Book ID: 4
+2025-04-30 10:19:12 [INFO]: Books fetched by user: 1
+2025-04-30 10:20:29 [INFO]: Book created by admin: 1 - Book ID: 5
+2025-04-30 10:20:29 [INFO]: Books fetched by user: 1
+2025-04-30 10:21:39 [INFO]: Book created by admin: 1 - Book ID: 6
+2025-04-30 10:21:39 [INFO]: Books fetched by user: 1
+2025-04-30 10:24:46 [INFO]: Book created by admin: 1 - Book ID: 7
+2025-04-30 10:24:46 [INFO]: Books fetched by user: 1
+2025-04-30 10:26:34 [INFO]: Book created by admin: 1 - Book ID: 8
+2025-04-30 10:26:34 [INFO]: Books fetched by user: 1
+2025-04-30 10:27:26 [INFO]: Book created by admin: 1 - Book ID: 9
+2025-04-30 10:27:26 [INFO]: Books fetched by user: 1
+2025-04-30 10:28:49 [INFO]: Book created by admin: 1 - Book ID: 10
+2025-04-30 10:28:49 [INFO]: Books fetched by user: 1
+2025-04-30 10:29:46 [INFO]: Book created by admin: 1 - Book ID: 11
+2025-04-30 10:29:46 [INFO]: Books fetched by user: 1
+2025-04-30 10:31:30 [INFO]: Book created by admin: 1 - Book ID: 12
+2025-04-30 10:31:30 [INFO]: Books fetched by user: 1
+2025-04-30 10:32:42 [INFO]: Book created by admin: 1 - Book ID: 13
+2025-04-30 10:32:42 [INFO]: Books fetched by user: 1
+2025-04-30 10:33:34 [INFO]: Book created by admin: 1 - Book ID: 14
+2025-04-30 10:33:34 [INFO]: Books fetched by user: 1
+2025-04-30 10:34:22 [INFO]: Book created by admin: 1 - Book ID: 15
+2025-04-30 10:34:22 [INFO]: Books fetched by user: 1
+2025-04-30 10:35:58 [INFO]: Book created by admin: 1 - Book ID: 16
+2025-04-30 10:35:58 [INFO]: Books fetched by user: 1
+2025-04-30 10:37:30 [INFO]: Book created by admin: 1 - Book ID: 17
+2025-04-30 10:37:30 [INFO]: Books fetched by user: 1
+2025-04-30 10:38:44 [INFO]: Book created by admin: 1 - Book ID: 18
+2025-04-30 10:38:44 [INFO]: Books fetched by user: 1
+2025-04-30 10:39:47 [INFO]: Book created by admin: 1 - Book ID: 19
+2025-04-30 10:39:47 [INFO]: Books fetched by user: 1
+2025-04-30 10:41:27 [WARN]: Invalid token
+2025-04-30 10:41:33 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-30 10:41:33 [INFO]: Books fetched by user: 1
+2025-04-30 10:41:33 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:41:33 [INFO]: Genres fetched by user: 1
+2025-04-30 10:41:33 [INFO]: Books fetched by user: 1
+2025-04-30 10:41:33 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:41:33 [INFO]: Genres fetched by user: 1
+2025-04-30 10:43:10 [INFO]: Book created by admin: 1 - Book ID: 21
+2025-04-30 10:43:10 [INFO]: Books fetched by user: 1
+2025-04-30 10:44:02 [INFO]: Book created by admin: 1 - Book ID: 22
+2025-04-30 10:44:02 [INFO]: Books fetched by user: 1
+2025-04-30 10:44:49 [INFO]: Book created by admin: 1 - Book ID: 23
+2025-04-30 10:44:49 [INFO]: Books fetched by user: 1
+2025-04-30 10:45:45 [INFO]: Book created by admin: 1 - Book ID: 24
+2025-04-30 10:45:45 [INFO]: Books fetched by user: 1
+2025-04-30 10:46:08 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:46:08 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:46:11 [INFO]: Genres fetched by user: 1
+2025-04-30 10:46:11 [INFO]: Genres fetched by user: 1
+2025-04-30 10:46:12 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:46:12 [INFO]: Genres fetched by user: 1
+2025-04-30 10:46:12 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 10:46:12 [INFO]: Genres fetched by user: 1
+2025-04-30 10:46:12 [INFO]: Books fetched by user: 1
+2025-04-30 10:46:12 [INFO]: Books fetched by user: 1
+2025-04-30 10:48:37 [INFO]: Clients fetched by user: 1
+2025-04-30 10:48:37 [INFO]: Clients fetched by user: 1
+2025-04-30 10:50:18 [INFO]: Client created (ID: 1) by user: 1
+2025-04-30 10:50:18 [INFO]: Clients fetched by user: 1
+2025-04-30 10:50:21 [INFO]: Client fetched (ID: 1) by user: 1
+2025-04-30 10:50:56 [INFO]: Client created (ID: 2) by user: 1
+2025-04-30 10:50:56 [INFO]: Clients fetched by user: 1
+2025-04-30 10:51:32 [INFO]: Client created (ID: 3) by user: 1
+2025-04-30 10:51:32 [INFO]: Clients fetched by user: 1
+2025-04-30 10:52:58 [INFO]: Client created (ID: 4) by user: 1
+2025-04-30 10:52:58 [INFO]: Clients fetched by user: 1
+2025-04-30 10:53:38 [INFO]: Client created (ID: 5) by user: 1
+2025-04-30 10:53:38 [INFO]: Clients fetched by user: 1
+2025-04-30 10:54:12 [INFO]: Client created (ID: 6) by user: 1
+2025-04-30 10:54:12 [INFO]: Clients fetched by user: 1
+2025-04-30 10:55:16 [INFO]: Client fetched (ID: 6) by user: 1
+2025-04-30 10:57:16 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:16 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:17 [INFO]: Client fetched (ID: 6) by user: 1
+2025-04-30 10:57:44 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:45 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:46 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:50 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:55 [INFO]: Client updated (ID: 6) by user: 1
+2025-04-30 10:57:55 [INFO]: Clients fetched by user: 1
+2025-04-30 10:57:57 [INFO]: Client fetched (ID: 6) by user: 1
+2025-04-30 10:58:01 [INFO]: Client updated (ID: 6) by user: 1
+2025-04-30 10:58:01 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:05 [INFO]: Client fetched (ID: 5) by user: 1
+2025-04-30 10:58:10 [INFO]: Receipts fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Books fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Receipts fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Books fetched by user: 1
+2025-04-30 10:58:10 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 10:58:10 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Books fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Books fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:10 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:27 [INFO]: Receipt created (ID: 1) by user: 1
+2025-04-30 10:58:27 [INFO]: Book quantity updated by user: 1 - Book ID: 4
+2025-04-30 10:58:27 [INFO]: ReceiptBook created (ID: 1) by user: 1
+2025-04-30 10:58:27 [INFO]: Book quantity updated by user: 1 - Book ID: 5
+2025-04-30 10:58:27 [INFO]: ReceiptBook created (ID: 2) by user: 1
+2025-04-30 10:58:27 [INFO]: Book quantity updated by user: 1 - Book ID: 6
+2025-04-30 10:58:27 [INFO]: ReceiptBook created (ID: 3) by user: 1
+2025-04-30 10:58:27 [INFO]: Receipts fetched by user: 1
+2025-04-30 10:58:27 [INFO]: Books fetched by user: 1
+2025-04-30 10:58:27 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 10:58:27 [INFO]: Books fetched by user: 1
+2025-04-30 10:58:27 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:31 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:31 [INFO]: Clients fetched by user: 1
+2025-04-30 10:58:32 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:02:34 [INFO]: Clients fetched by user: 1
+2025-04-30 11:02:34 [INFO]: Clients fetched by user: 1
+2025-04-30 11:02:35 [ERROR]: Error fetching client: Receipt is not defined
+2025-04-30 11:02:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:02:51 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:02:51 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:02:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:03:33 [INFO]: Clients fetched by user: 1
+2025-04-30 11:03:33 [INFO]: Clients fetched by user: 1
+2025-04-30 11:03:34 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:03:41 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:03:51 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:03:51 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:03:51 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Books fetched by user: 1
+2025-04-30 11:03:51 [INFO]: Clients fetched by user: 1
+2025-04-30 11:04:02 [INFO]: Receipt created (ID: 2) by user: 1
+2025-04-30 11:04:02 [INFO]: Book quantity updated by user: 1 - Book ID: 1
+2025-04-30 11:04:02 [INFO]: ReceiptBook created (ID: 4) by user: 1
+2025-04-30 11:04:02 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:04:02 [INFO]: Books fetched by user: 1
+2025-04-30 11:04:02 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:04:02 [INFO]: Books fetched by user: 1
+2025-04-30 11:04:02 [INFO]: Clients fetched by user: 1
+2025-04-30 11:04:04 [INFO]: Clients fetched by user: 1
+2025-04-30 11:04:04 [INFO]: Clients fetched by user: 1
+2025-04-30 11:04:05 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:07:15 [INFO]: Clients fetched by user: 1
+2025-04-30 11:07:50 [INFO]: Clients fetched by user: 1
+2025-04-30 11:07:50 [INFO]: Clients fetched by user: 1
+2025-04-30 11:07:52 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:09:07 [INFO]: Clients fetched by user: 1
+2025-04-30 11:09:19 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:10:32 [INFO]: Clients fetched by user: 1
+2025-04-30 11:10:32 [INFO]: Clients fetched by user: 1
+2025-04-30 11:10:32 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:11:38 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Clients fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Books fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Clients fetched by user: 1
+2025-04-30 11:11:38 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Books fetched by user: 1
+2025-04-30 11:11:38 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Books fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Books fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Clients fetched by user: 1
+2025-04-30 11:11:38 [INFO]: Clients fetched by user: 1
+2025-04-30 11:12:46 [INFO]: Clients fetched by user: 1
+2025-04-30 11:12:46 [INFO]: Clients fetched by user: 1
+2025-04-30 11:12:47 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:13:07 [INFO]: Clients fetched by user: 1
+2025-04-30 11:13:09 [INFO]: Clients fetched by user: 1
+2025-04-30 11:13:12 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:13:53 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Clients fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Receipts fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Books fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Clients fetched by user: 1
+2025-04-30 11:13:53 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Books fetched by user: 1
+2025-04-30 11:13:53 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Books fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Books fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Clients fetched by user: 1
+2025-04-30 11:13:53 [INFO]: Clients fetched by user: 1
+2025-04-30 11:14:53 [INFO]: Clients fetched by user: 1
+2025-04-30 11:14:53 [INFO]: Clients fetched by user: 1
+2025-04-30 11:14:54 [INFO]: Client fetched (ID: 2) by user: 1
+2025-04-30 11:14:59 [INFO]: Books fetched by user: 1
+2025-04-30 11:14:59 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 11:14:59 [INFO]: Genres fetched by user: 1
+2025-04-30 11:14:59 [INFO]: Books fetched by user: 1
+2025-04-30 11:14:59 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 11:14:59 [INFO]: Genres fetched by user: 1
+2025-04-30 11:15:23 [INFO]: Clients fetched by user: 1
+2025-04-30 11:15:23 [INFO]: Clients fetched by user: 1
+2025-04-30 11:15:46 [INFO]: Books fetched by user: 1
+2025-04-30 11:15:46 [INFO]: Genres fetched by user: 1
+2025-04-30 11:15:46 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 11:15:46 [INFO]: Genres fetched by user: 1
+2025-04-30 11:15:46 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 11:15:46 [INFO]: Books fetched by user: 1
+2025-04-30 11:18:11 [INFO]: Clients fetched by user: 1
+2025-04-30 11:18:11 [INFO]: Clients fetched by user: 1
+2025-04-30 15:59:02 [INFO]: User registered: manager@gmail.com with role: manager
+2025-04-30 15:59:06 [INFO]: User logged in: manager@gmail.com (role: manager)
+2025-04-30 15:59:06 [INFO]: Genres fetched by user: 2
+2025-04-30 15:59:06 [INFO]: Books fetched by user: 2
+2025-04-30 15:59:06 [INFO]: Genres fetched by user: 2
+2025-04-30 15:59:06 [INFO]: User undefined (manager) fetched 10 authors
+2025-04-30 15:59:06 [INFO]: Books fetched by user: 2
+2025-04-30 15:59:06 [INFO]: User undefined (manager) fetched 10 authors
+2025-04-30 15:59:18 [INFO]: Books fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Receipts fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Clients fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Receipts fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Clients fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Books fetched by user: 2
+2025-04-30 15:59:18 [INFO]: ReceiptBooks fetched by user: 2
+2025-04-30 15:59:18 [INFO]: ReceiptBooks fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Books fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Books fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Clients fetched by user: 2
+2025-04-30 15:59:18 [INFO]: Clients fetched by user: 2
+2025-04-30 15:59:22 [INFO]: Clients fetched by user: 2
+2025-04-30 15:59:22 [INFO]: Clients fetched by user: 2
+2025-04-30 15:59:24 [INFO]: Client fetched (ID: 2) by user: 2
+2025-04-30 16:38:38 [INFO]: User undefined (manager) fetched 10 authors
+2025-04-30 16:38:38 [INFO]: Genres fetched by user: 2
+2025-04-30 16:38:38 [INFO]: Books fetched by user: 2
+2025-04-30 16:38:38 [INFO]: User undefined (manager) fetched 10 authors
+2025-04-30 16:38:38 [INFO]: Genres fetched by user: 2
+2025-04-30 16:38:38 [INFO]: Books fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Books fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Clients fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Receipts fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Clients fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Receipts fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Books fetched by user: 2
+2025-04-30 16:43:19 [INFO]: ReceiptBooks fetched by user: 2
+2025-04-30 16:43:19 [INFO]: ReceiptBooks fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Books fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Books fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Clients fetched by user: 2
+2025-04-30 16:43:19 [INFO]: Clients fetched by user: 2
+2025-04-30 16:43:23 [INFO]: User logged in: admin@gmail.com (role: admin)
+2025-04-30 16:43:23 [INFO]: Books fetched by user: 1
+2025-04-30 16:43:23 [INFO]: Books fetched by user: 1
+2025-04-30 16:43:23 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 16:43:23 [INFO]: Genres fetched by user: 1
+2025-04-30 16:43:23 [INFO]: User undefined (admin) fetched 10 authors
+2025-04-30 16:43:23 [INFO]: Genres fetched by user: 1
+2025-04-30 16:43:23 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-30 16:43:23 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-30 16:43:33 [INFO]: Report generated successfully for period 2025-04-01 to 2025-05-01 by User ID: undefined
+2025-04-30 16:43:33 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-30 16:45:11 [INFO]: Fetched all reports successfully by User ID: undefined
+2025-04-30 16:46:19 [INFO]: Receipts fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Clients fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Books fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Receipts fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Clients fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Books fetched by user: 1
+2025-04-30 16:46:19 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 16:46:19 [INFO]: ReceiptBooks fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Books fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Books fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Clients fetched by user: 1
+2025-04-30 16:46:19 [INFO]: Clients fetched by user: 1
